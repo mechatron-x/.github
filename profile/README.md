@@ -16,15 +16,13 @@ Whether you need a responsive website or a powerful web application, our team ha
 
 We pride ourselves on staying current with the latest technologies to deliver the best solutions for our clients. Some of the technologies we use include:
 
-- Swift
 - SwiftUI
-- JavaScript
-- Typescript
-- React
-- Node.js
+- React.js
+- Vue.js
 - Express
 - MongoDB
-- Firebase
+- Postgres
+- Go
 
 ## Get in Touch :mailbox:
 
